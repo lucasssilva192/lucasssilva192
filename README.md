@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente atuo como desenvolvedor web utilizando PHP e o framework Laravel (em busca de novas oportunidades 🤞)
 
- ### Um pouco sobre meus projetos acadêmicos (profissionalmente, utilizo o Bitbucket):
+ ### Um pouco sobre meus projetos acadêmicos/pessoais (profissionalmente, utilizo o Bitbucket):
  <div>
     <a href="https://github.com/lucasssilva192">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasssilva192&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
